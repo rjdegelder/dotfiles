@@ -1,0 +1,15 @@
+{
+  "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+  "font_size": 9,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "table_cleaner_align_to_middle": false,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}

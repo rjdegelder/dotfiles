@@ -1,0 +1,9 @@
+[
+  { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["ctrl+shift++"], "command": "upper_case" },
+  { "keys": ["ctrl+shift+-"], "command": "lower_case" },
+  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+  { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]
